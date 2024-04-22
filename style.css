@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.nav-container{
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    background-color: #9b9898;
+    color: white;
+}
+
+.items{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+
+}
+
+.item{
+    font-size: 22px;
+    font-weight: bold;
+    padding: 5px;
+}
